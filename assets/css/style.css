@@ -214,7 +214,7 @@ vuong */
     /* them margin-top de khong bi header đè lên slider do fixed */
     padding-top: 50%;
     /* ti le theo chieu ngang cua chinh no */
-    background: url('/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
     background-repeat: no-repeat;
 }
 
